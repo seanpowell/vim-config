@@ -16,14 +16,14 @@
 
 " Pathogen (This must happen first.)
 " --------
+runtime bundle/vim-pathogen/autoload/pathogen.vim
 
-filetype off                    " Avoid a Vim/Pathogen bug
+call pathogen#infect()
+syntax on
+filetype plugin indent on
 call pathogen#helptags()
-call pathogen#runtime_append_all_bundles()
 
 set nocompatible                " Don't maintain compatibility with vi
-syntax on                       " Highlight known syntaxes
-filetype plugin indent on
 
 
 " Source initialization files
