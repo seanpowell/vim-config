@@ -52,3 +52,5 @@ set wrap
 set foldlevelstart=10
 imap <C-a> <Esc>^i
 imap <C-e> <Esc>$a
+hi link EasyMotionTarget ErrorMsg
+hi link EasyMotionShade  Comment
