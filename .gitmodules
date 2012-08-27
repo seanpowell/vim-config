@@ -123,3 +123,6 @@
 [submodule "bundle/vim-powerline"]
 	path = bundle/vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "bundle/EasyMotion"]
+	path = bundle/EasyMotion
+	url = git@github.com:vim-scripts/EasyMotion.git
