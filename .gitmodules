@@ -126,3 +126,9 @@
 [submodule "bundle/EasyMotion"]
 	path = bundle/EasyMotion
 	url = git@github.com:vim-scripts/EasyMotion.git
+[submodule "bundle/Satori-Color-Scheme"]
+	path = bundle/Satori-Color-Scheme
+	url = git@github.com:vim-scripts/Satori-Color-Scheme.git
+[submodule "bundle/matrix"]
+	path = bundle/matrix
+	url = git@github.com:vim-scripts/matrix.vim.git
