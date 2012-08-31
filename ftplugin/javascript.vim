@@ -1,1 +1,1 @@
-map jj :w<Enter>:silent !node % > /tmp/out<Enter>
+map ff :w<Enter>:silent !node % > /tmp/out<Enter>
