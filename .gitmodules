@@ -132,3 +132,6 @@
 [submodule "bundle/matrix"]
 	path = bundle/matrix
 	url = git@github.com:vim-scripts/matrix.vim.git
+[submodule "bundle/darkblack"]
+	path = bundle/darkblack
+	url = git@github.com:vim-scripts/darkblack.vim.git
