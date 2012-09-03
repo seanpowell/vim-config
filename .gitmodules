@@ -135,3 +135,6 @@
 [submodule "bundle/darkblack"]
 	path = bundle/darkblack
 	url = git@github.com:vim-scripts/darkblack.vim.git
+[submodule "bundle/greenvision"]
+	path = bundle/greenvision
+	url = git@github.com:vim-scripts/greenvision.git
