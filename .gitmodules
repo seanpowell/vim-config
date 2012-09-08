@@ -147,3 +147,6 @@
 [submodule "bundle/snipmate-snippets"]
 	path = bundle/snipmate-snippets
 	url = git@github.com:scrooloose/snipmate-snippets.git
+[submodule "bundle/rspec_runner"]
+	path = bundle/rspec_runner
+	url = git@github.com:dracco/rspec_runner.git
