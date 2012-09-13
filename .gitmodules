@@ -150,3 +150,6 @@
 [submodule "bundle/rspec_runner"]
 	path = bundle/rspec_runner
 	url = git@github.com:dracco/rspec_runner.git
+[submodule "bundle/ZenCoding"]
+	path = bundle/ZenCoding
+	url = git@github.com:vim-scripts/ZenCoding.vim.git
