@@ -153,3 +153,6 @@
 [submodule "bundle/ZenCoding"]
 	path = bundle/ZenCoding
 	url = git@github.com:vim-scripts/ZenCoding.vim.git
+[submodule "bundle/SyntaxAttr"]
+	path = bundle/SyntaxAttr
+	url = git@github.com:vim-scripts/SyntaxAttr.vim.git
