@@ -156,3 +156,6 @@
 [submodule "bundle/SyntaxAttr"]
 	path = bundle/SyntaxAttr
 	url = git@github.com:vim-scripts/SyntaxAttr.vim.git
+[submodule "bundle/vim-colorschemes"]
+	path = bundle/vim-colorschemes
+	url = git@github.com:dracco/vim-colorschemes.git
