@@ -159,3 +159,6 @@
 [submodule "bundle/taglist"]
 	path = bundle/taglist
 	url = git@github.com:vim-scripts/taglist.vim.git
+[submodule "bundle/vim-slime"]
+	path = bundle/vim-slime
+	url = git://github.com/jpalardy/vim-slime.git
