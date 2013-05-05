@@ -162,3 +162,6 @@
 [submodule "bundle/vim-slime"]
 	path = bundle/vim-slime
 	url = git://github.com/jpalardy/vim-slime.git
+[submodule "bundle/vim-dispatch"]
+	path = bundle/vim-dispatch
+	url = git://github.com/tpope/vim-dispatch.git
